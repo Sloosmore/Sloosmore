@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stan
 - 👀 I’m interested in ML and creative value
-- 🌱 I’m currently learning React, Django and more Pytorch 
+- 🌱 I’m currently learning React, Node and more Pytorch 
 
 
 <!---
