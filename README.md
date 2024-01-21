@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stan
-- 👀 I’m interested in ML and creative value
+- 👀 I’m interested in ML and creating value
 - 🌱 I’m currently learning React, Node and more Pytorch 
 
 
